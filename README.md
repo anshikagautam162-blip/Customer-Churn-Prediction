@@ -78,7 +78,7 @@ This project builds an end-to-end churn prediction pipeline:
 
 ```
 📦 Customer-Churn-Prediction
- ┣ 📓 customer-churn-prediction-for-saas-platforms.ipynb  ← Main notebook
+ ┣ 📓 customer churn prediction for saas platforms.ipynb  ← Main notebook
  ┗ 📄 README.md
 ```
 
